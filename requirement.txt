@@ -1,0 +1,5 @@
+A Library Management System is a software application used by libraries to manage their resources efficiently. It helps librarians organize, catalogue, and circulate books, journals, media, and other materials available in the library. Let's take a look at an example of a library system to understand how it works.
+
+In a library system like Koha, librarians can perform various tasks such as adding new books to the catalogue, updating existing records, checking items in and out, and managing user accounts. Library users can search for materials using the OPAC, place holds on items, and view their borrowing history.
+
+The system helps librarians keep track of the library's collection, monitor circulation activities, and provide better services to patrons. By automating routine tasks and centralizing library operations, a library system like Koha improves efficiency and enhances the overall user experience.
